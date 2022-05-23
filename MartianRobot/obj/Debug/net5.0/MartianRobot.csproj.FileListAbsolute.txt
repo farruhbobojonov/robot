@@ -1,0 +1,12 @@
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\bin\Debug\net5.0\MartianRobot.deps.json
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\bin\Debug\net5.0\MartianRobot.dll
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\bin\Debug\net5.0\MartianRobot.pdb
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\obj\Debug\net5.0\MartianRobot.csproj.AssemblyReference.cache
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\obj\Debug\net5.0\MartianRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\obj\Debug\net5.0\MartianRobot.AssemblyInfoInputs.cache
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\obj\Debug\net5.0\MartianRobot.AssemblyInfo.cs
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\obj\Debug\net5.0\MartianRobot.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\obj\Debug\net5.0\MartianRobot.dll
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\obj\Debug\net5.0\refint\MartianRobot.dll
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\obj\Debug\net5.0\MartianRobot.pdb
+C:\Users\Farrukh_Bobojonov\source\repos\RobotProblemSolution\MartianRobot\obj\Debug\net5.0\ref\MartianRobot.dll
